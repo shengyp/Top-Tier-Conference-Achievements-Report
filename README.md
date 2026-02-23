@@ -21,8 +21,8 @@
 - `2025.01.23`  蚂蚁开源 2024 年论文总结   **[[LINK](https://mp.weixin.qq.com/s/gZRpxcUH4lMUf4mou0K5TA)]**
 - `2025.01.20`  一文梳理业界落地LLM4Rec的若干范式-数万字超长文(建议收藏)   **[[LINK](https://mp.weixin.qq.com/s/jqFQH6ZYhZRrzilLAo9BiA)]**
 - `2025.04.07`  THUIR师生论文获SIGIR 2025录用   **[[LINK](https://mp.weixin.qq.com/s?__biz=MzUyNzA1MzQ2NA==&mid=2247484758&idx=1&sn=f7348527d0c28cedc969bde531c13957&chksm=fb5138228ae15b2e6f9a969c3ab657f255a5fe899c2ac0b43d5938041c2a649bb374d7e47303&mpshare=1&scene=23&srcid=0408eF4RjkMZIcjcOPV9CeQb&sharer_shareinfo=b0bf90ad158cf8f5cc5c758d78e4c0f1&sharer_shareinfo_first=b0bf90ad158cf8f5cc5c758d78e4c0f1#rd)]**
-- `2025.05.16` 中国科学院软件研究所中文实验室多篇论文被 ACL 2025 及 ICML 2025录用   **[[LINK](https://mp.weixin.qq.com/s?__biz=Mzg2NjE3NzkzNQ==&mid=2247485384&idx=1&sn=dd59eb32bb36a0a80aacd37cb3ee5a20&chksm=cf8b6bc8c2b196b42809f751fa724ef931cf9d2cb81da51d8c7ae8f9086c7022da6c352399fe&mpshare=1&scene=23&srcid=0516C3Lr6RKfXStE1Hz2DLDQ&sharer_shareinfo=b4445aa0cdd2039c73574ef509fb5700&sharer_shareinfo_first=b4445aa0cdd2039c73574ef509fb5700#rd)]**
 - `2025.05.16`  新闻 | 天津大学自然语言处理实验室7篇论文被ACL 2025接受！  **[[LINK](https://mp.weixin.qq.com/s/L7sHpAXcKW8T-YZBjUQGfg)]**
+- `2025.05.16` 中国科学院软件研究所中文实验室多篇论文被 ACL 2025 及 ICML 2025录用   **[[LINK](https://mp.weixin.qq.com/s?__biz=Mzg2NjE3NzkzNQ==&mid=2247485384&idx=1&sn=dd59eb32bb36a0a80aacd37cb3ee5a20&chksm=cf8b6bc8c2b196b42809f751fa724ef931cf9d2cb81da51d8c7ae8f9086c7022da6c352399fe&mpshare=1&scene=23&srcid=0516C3Lr6RKfXStE1Hz2DLDQ&sharer_shareinfo=b4445aa0cdd2039c73574ef509fb5700&sharer_shareinfo_first=b4445aa0cdd2039c73574ef509fb5700#rd)]**
 - `2025.05.16`  新闻动态 | 实验室共14项新工作入选国际自然语言处理顶会ACL2025   **[[LINK](https://mp.weixin.qq.com/s/Bb6ZhnpkZbBzUxyHA2h9fw)]**
 - `2025.05.19`  哈工大SCIR 29篇长文被ACL 2025主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/dzosY6t9OSRlCkzVHCtHRw)]**
 - `2025.05.20`  人大高瓴人工智能学院师生论文被国际学术会议ACL 2025录用   **[[LINK](https://mp.weixin.qq.com/s/98ums3yz6QOe0TtAoxy52A)]**
