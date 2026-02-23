@@ -1,81 +1,162 @@
 # Top-Tier-Conference-Achievements-Report
-- `2025.11.11`  知识工场多篇论文被AAAI 2026录用   **[[LINK](https://mp.weixin.qq.com/s/pgVGV-5PKGVEnhPJzu3M9A)]**
-- `2026.01.28`  中国科学院软件研究所中文信息处理实验室多项研究成果被期刊 TOIS 和国际会议 MLSys、ICLR 等录用   **[[LINK](https://mp.weixin.qq.com/s/f3pbrMdjWkN8maOMfgtdOA)]**
-- `2026.01.31`  知识工场实验室 多 篇论文被 ICLR 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/Ez4q38up_4NdGgEcba4Gcw)]**
-- `2026.01.29`  人大高瓴人工智能学院师生论文被国际学术会议ICLR 2026录用   **[[LINK](https://mp.weixin.qq.com/s/KAj7-OvgqoEkNtyins26YQ)]**
-- `2024.12.04`  复旦大学数据智能与社会计算实验室3篇论文被COLING 2025录用   **[[LINK](https://mp.weixin.qq.com/s/UcrJFsp3Ri132a4pEa8fDg)]**
-- `2024.12.09`  哈工大SCIR 8篇长文被 COLING 2025录用   **[[LINK](https://mp.weixin.qq.com/s/MCApZ3uiHJknP4kS7NsnFw)]**
-- `2024.12.30`  【新闻】东北大学数据挖掘实验室1篇论文被COLING 2025录用   **[[LINK](https://mp.weixin.qq.com/s/FPWVvh5pEMiINML-ZFEq0w)]**
-- `2024.12.11`  学院6篇论文被自然语言处理领域国际会议COLING 2025录用   **[[LINK](https://ccs.imu.edu.cn/info/1053/2347.htm)]**
-- `2024.12.12`  快讯｜北邮GAMMA LAB的四篇工作被AAAI 2025录用   **[[LINK](https://mp.weixin.qq.com/s/CB5MfS3-M_Eq5Holh27kAg)]**
-- `2024.12.23`  哈工大SCIR 5篇论文被 AAAI 2025录用   **[[LINK](https://mp.weixin.qq.com/s/_aORLCuAgz0IsG8k9uTpVQ)]**
-- `2025.01.25`  北京大学多媒体信息处理研究室的2篇论文被ICLR 2025录用   **[[LINK](https://mp.weixin.qq.com/s/t6g7wd-bGBKBZ4idM5pqMg)]**
-- `2025.01.28`  人大高瓴人工智能学院师生论文被国际学术会议ICLR 2025录用   **[[LINK](https://mp.weixin.qq.com/s/NXpc39nMQX3IHgwVzCQ1ew)]**
-- `2025.01.26`  TJUDB实验室3篇论文被国际顶级会议WWW 2025录用   **[[LINK](https://mp.weixin.qq.com/s/SjjHaOpaGQMBKEsqhvDxJw)]**
-- `2025.01.26`  人大高瓴人工智能学院师生论文被国际学术会议The Web Conference (WWW) 2025录用   **[[LINK](https://mp.weixin.qq.com/s/05_oenl3rGxA2jLmaBLtpQ)]**
-- `2025.01.27`  龙蛇飞舞、恭贺新春 | 知识引擎实验室多篇新文章被ICLR、WWW、NAACL、Nature子刊、ACM Survey 等录用   **[[LINK](https://mp.weixin.qq.com/s/a2bTELhqgkgsKht7uCtOKQ)]**
-- `2025.01.27`  知识工场实验室近期录用论文一览（一）   **[[LINK](https://mp.weixin.qq.com/s/_sJCC4ixKpDLyyH_Be-CMw)]**
-- `2025.01.27`  知识工场实验室近期录用论文一览（二）   **[[LINK](https://mp.weixin.qq.com/s/FOizFG3ANyMXW6YCa6Xb8g)]**
-- `2025.01.29`  吉林大学 | 计算机科学与技术学院十六篇论文入选人工智能领域顶级会议AAAI 2025   **[[LINK](https://mp.weixin.qq.com/s/hZtXU2ftk0tvx21LA_8o5g)]**
-- `2025.01.24`  COLING 2025奖项公布：CIPS计算语言学专业委员会专委获最佳长论文奖和杰出论文奖   **[[LINK](https://mp.weixin.qq.com/s/jPjhQY8qGkX-8RNlIVIseg)]**
-- `2025.01.23`  蚂蚁开源 2024 年论文总结   **[[LINK](https://mp.weixin.qq.com/s/gZRpxcUH4lMUf4mou0K5TA)]**
-- `2025.01.20`  一文梳理业界落地LLM4Rec的若干范式-数万字超长文(建议收藏)   **[[LINK](https://mp.weixin.qq.com/s/jqFQH6ZYhZRrzilLAo9BiA)]**
-- `2025.04.07`  THUIR师生论文获SIGIR 2025录用   **[[LINK](https://mp.weixin.qq.com/s?__biz=MzUyNzA1MzQ2NA==&mid=2247484758&idx=1&sn=f7348527d0c28cedc969bde531c13957&chksm=fb5138228ae15b2e6f9a969c3ab657f255a5fe899c2ac0b43d5938041c2a649bb374d7e47303&mpshare=1&scene=23&srcid=0408eF4RjkMZIcjcOPV9CeQb&sharer_shareinfo=b0bf90ad158cf8f5cc5c758d78e4c0f1&sharer_shareinfo_first=b0bf90ad158cf8f5cc5c758d78e4c0f1#rd)]**
-- `2025.05.16`  新闻 | 天津大学自然语言处理实验室7篇论文被ACL 2025接受！  **[[LINK](https://mp.weixin.qq.com/s/L7sHpAXcKW8T-YZBjUQGfg)]**
-- `2025.05.16` 中国科学院软件研究所中文实验室多篇论文被 ACL 2025 及 ICML 2025录用   **[[LINK](https://mp.weixin.qq.com/s?__biz=Mzg2NjE3NzkzNQ==&mid=2247485384&idx=1&sn=dd59eb32bb36a0a80aacd37cb3ee5a20&chksm=cf8b6bc8c2b196b42809f751fa724ef931cf9d2cb81da51d8c7ae8f9086c7022da6c352399fe&mpshare=1&scene=23&srcid=0516C3Lr6RKfXStE1Hz2DLDQ&sharer_shareinfo=b4445aa0cdd2039c73574ef509fb5700&sharer_shareinfo_first=b4445aa0cdd2039c73574ef509fb5700#rd)]**
-- `2025.05.16`  新闻动态 | 实验室共14项新工作入选国际自然语言处理顶会ACL2025   **[[LINK](https://mp.weixin.qq.com/s/Bb6ZhnpkZbBzUxyHA2h9fw)]**
-- `2025.05.19`  哈工大SCIR 29篇长文被ACL 2025主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/dzosY6t9OSRlCkzVHCtHRw)]**
-- `2025.05.20`  人大高瓴人工智能学院师生论文被国际学术会议ACL 2025录用   **[[LINK](https://mp.weixin.qq.com/s/98ums3yz6QOe0TtAoxy52A)]**
-- `2025.05.23`  苏大NLP团队和合作单位40篇论文被ACL2025主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/x-6px3nrH2lk1vP77bgo7g)]**
-- `2025.05.20`  AML Lab 7 篇论文被国际学术会议ACL 2025录用   **[[LINK](https://mp.weixin.qq.com/s/g9foob4QzITPPqUfD273sw)]**
-- `2025.05.22`  实验室两篇论文被ACL 2025接收   **[[LINK](https://mp.weixin.qq.com/s/lPf3BTyFG4p1b-8SlC-s6A)]**
-- `2025.08.01`  知识工场多篇论文在ACL 2025发表   **[[LINK](https://mp.weixin.qq.com/s/B_CHJTuuoEMGmR79VsN1Yw)]**
-- `2025.05.24`  快讯｜北邮GAMMA LAB的五篇工作被KDD 2025录用   **[[LINK](https://mp.weixin.qq.com/s/W9gL7A3cyAKHm5_B05U6bA)]**
-- `2025.07.09`  交通数据挖掘与具身智能北京市重点实验室上半年CCF-A类学术论文成果速览   **[[LINK](https://mp.weixin.qq.com/s/yQ-TOQ0uP-SlFKM2Grhl_Q)]**
-- `2025.07.31`  ECML PKDD 2025 | 时空数据（Spatial-Temporal）论文总结   **[[LINK](https://mp.weixin.qq.com/s/SIwSmuSsQHVlmDUWxGbH-w)]**
-- `2025.08.14`  AML Lab 10 篇论文被国际学术会议CIKM 2025 录用   **[[LINK](https://mp.weixin.qq.com/s/-ai0ulxsdpAIAtyM1EVs5Q)]**
-- `2025.08.23`  新闻 | 实验室多篇新文章被EMNLP、ACM MM、Nature 子刊等录用   **[[LINK](https://mp.weixin.qq.com/s/cRlsPwdOurBDrot3b1cyGw)]**
-- `2025.08.23`  复旦大学数据智能与社会计算实验室3篇论文被EMNLP 2025 录用   **[[LINK](https://mp.weixin.qq.com/s/1pSfmIDEnPVZg3u3OwSWLQ)]**
-- `2025.08.21`  新闻 | 我组论文被自然语言处理领域顶会EMNLP 2025主会录用   **[[LINK](https://mp.weixin.qq.com/s/v7mnjf1lHx9ADigA4PSVkQ)]**
-- `2025.08.22`  吉林大学 | 人工智能学院11篇论文被EMNLP-2025接收   **[[LINK](https://sai.jlu.edu.cn/info/1034/5164.htm)]**
-- `2025.09.08`  研究团队六篇长文获EMNLP 2025国际会议录用   **[[LINK](https://mp.weixin.qq.com/s/V8cq4AocnanJ4D2rRV839g)]**
-- `2025.08.25`  哈工大SCIR 22篇长文被EMNLP 2025主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/8CoLnK2-gPmpqOxWitrLng)]**
-- `2025.09.25`  新闻 | 天津大学自然语言处理实验室2篇论文被EMNLP 2025 Industry Track接受！   **[[LINK](https://mp.weixin.qq.com/s/Wr53OJC73qM9eOkaz542Ig)]**
-- `2025.07.12`  实验室四篇论文被 NLPCC 2025 录用   **[[LINK](https://mp.weixin.qq.com/s/s-hy4Q4eUor4kYJq_2_abQ)]**
-- `2025.08.25`  NLPCC 2025 Outstanding Paper 丨 FinTeam：让金融智能体像投研团队一样协作   **[[LINK](https://mp.weixin.qq.com/s/vDyqRccp9svA3JIWZDw_sg)]**
-- `2025.09.19`  新闻｜我组 12 篇论文被 NeurIPS 2025 录用   **[[LINK](https://mp.weixin.qq.com/s/FsXvoo83UynkPD9kxli5Qg)]**
-- `2025.09.28`  知识工场实验室多篇论文被 ICML、MM、TOSEM、TSE、CIKM等会议或期刊录用   **[[LINK](https://mp.weixin.qq.com/s/fQITOXYBYOKyI9sYDnr5qw)]**
-- `2025.11.09`  EMNLP 2025奖项公布：CIPS计算语言学专业委员会专委获杰出论文奖和SAC Highlights奖   **[[LINK](https://mp.weixin.qq.com/s/RVmP_lmVSqIgVgvHoIabBw)]**
-- `2023.11.15`  ICLR 2024论文审稿结果出炉！7000+高产论文创新纪录，扩散模型占比最高   **[[LINK](https://mp.weixin.qq.com/s/K-uLAs30FfeZthtDifZSHA)]**
-- `2024.01.25`  快讯｜北邮GAMMA LAB的五篇工作被www 2024 接收   **[[LINK](https://mp.weixin.qq.com/s/17MdOkwEoMM20shsaq-5JA)]**
-- `2024.01.30`  人大高瓴人工智能学院师生论文被国际学术会议WWW 2024录用   **[[LINK](https://mp.weixin.qq.com/s/bflrSPiv-aICpPXZhq0_PA)]**
-- `2024.02.21`  天津大学自然语言处理实验室9篇论文被LREC-COLING 2024接受   **[[LINK](https://mp.weixin.qq.com/s/lPBaqBGBMhHZP-EjOirDHQ)]**
-- `2024.02.21`  复旦大学数据智能与社会计算实验室五篇论文被WWW、AAAI和COLING录用   **[[LINK](https://mp.weixin.qq.com/s/nse919SC_SXGG8hexo_UEg)]**
-- `2024.02.25`  哈工大SCIR 12篇长文被COLING 2024录用   **[[LINK](https://mp.weixin.qq.com/s/Xe7K6Fbx5e6e-focnuqbQA)]**
-- `2024.03.03`  软件工程顶会——ICSE '24 论文清单、摘要   **[[LINK](https://mp.weixin.qq.com/s/ahaPeR4MEKpxcOjtzgKVtg)]**
-- `2024.04.08`  中国科学院计算所网络数据重点实验室4篇论文获LREC-COLING 2024录用   **[[LINK](https://mp.weixin.qq.com/s/jv4D3ck2ccPqGqLhDRyRsA)]**
-- `2024.05.09`  快讯｜北邮GAMMA LAB的两篇工作被ICML 2024 录用   **[[LINK](https://mp.weixin.qq.com/s/DUOWKC_YDAdygjzdLxVMVA)]**
-- `2024.05.20`  快讯｜北邮GAMMA LAB的两篇工作被KDD 2024 录用   **[[LINK](https://mp.weixin.qq.com/s/bBuQsROttWyqMZA4bk8Yig)]**
-- `2024.05.07`  新闻 | 我组八篇论文被 ICML 2024 录用   **[[LINK](https://mp.weixin.qq.com/s/ThawLEkVGzun1gAIEd2yyw)]**
-- `2024.07.23`  北师大人工智能学院朱倩男老师论文被顶级会议录用   **[[LINK](https://mp.weixin.qq.com/s/AeyiINyeNqEy5pxZxPtlXw)]**
-- `2024.07.31`  知识工场多篇论文被 ACL 2024 与 MM 2024 录用   **[[LINK](https://mp.weixin.qq.com/s/_IKqiPzd3Iq0ltZ8fonUsA)]**
-- `2024.09.25`  哈工大SCIR 14篇长文被EMNLP 2024主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/vngsOKWvQqFW4nDEXkbdFA)]**
-- `2024.09.29`  哈工大SCIR 9篇论文被 NeurIPS 2024录用   **[[LINK](https://mp.weixin.qq.com/s/TIdJkNoCOC9V9-nhshtyMA)]**
-- `2024.10.04`  知识工场多篇论文被 EMNLP 2024 录用   **[[LINK](https://mp.weixin.qq.com/s/8oJyRx6t96KGnqXY1JgzCg)]**
-- `2024.10.10`  天津大学自然语言处理实验室4篇论文被NeurIPS 2024和EMNLP 2024接受！ **[[LINK](https://mp.weixin.qq.com/s/liZ3sVwrl2JV1b-4l7AOWA)]**
-- `2024.10.20`  THUIR师生论文获CIKM 2024录用   **[[LINK](https://mp.weixin.qq.com/s/Fq-qk7268ErAe4_UrFPn2w)]**
-- `2024.12.01`  天津大学自然语言处理实验室6篇论文被COLING 2025接受！   **[[LINK](https://mp.weixin.qq.com/s/2eV7BThvnRncaXgdYwsYxg)]**
-- `2024.12.03`  贾佳亚、徐立研究工作获 SIGGRAPH Asia 2024 时间检验奖 丨 AI 顶会直击   **[[LINK](https://mp.weixin.qq.com/s/L5AMEjKCfnS6xVgfrzBSXQ)]**
-- `2024.12.29`  东北大学iDC-NEU实验室2024年度论文总结   **[[LINK](https://mp.weixin.qq.com/s/1epw_EPRw8Pi_nlQ_47iMQ)]**
-- `2023.03.20`  Soundness？Excitement？官方解读ACL 2023论文评分机制   **[[LINK](https://mp.weixin.qq.com/s/RyottZj01o-H9OvuST8jJg)]**
-- `2023.05.22`  信工所14篇论文被顶级国际会议ACL 2023录用，一文速览！   **[[LINK](https://mp.weixin.qq.com/s/4gZRZvRZMkuLOh_GDlvROQ)]**
-- `2023.07.11`  ACL'23颁奖井喷！史无前例75篇论文上榜，华人面孔占据半壁江山   **[[LINK](https://mp.weixin.qq.com/s/4GfGE-J7dOSVAcQv41ncAw)]**
-- `2023.05.22`  自然语言处理顶会ACL 2023收录西湖大学工学院最新成果   **[[LINK](https://mp.weixin.qq.com/s/bMESRXRVl0fPIYwsW3KoGg)]**
-- `2023.07.26`  论文导读 | ACL-2023 文档级事件抽取 (1)   **[[LINK](https://mp.weixin.qq.com/s/XoLIi2HUKBYyW46y7mby1Q)]**
-- `2023.08.09`  KDD 2023奖项出炉：港中文、港科大等获最佳论文奖，GNN大牛Leskovec获创新奖   **[[LINK](https://mp.weixin.qq.com/s/mPkYZwdz1UJAC6DIAqk6Ug)]**
-- `2023.07.27`  论文导读 | ACL-2023 事件检测   **[[LINK](https://mp.weixin.qq.com/s/YF8R6SOjkRK9A0_7VLZp-A)]**
-- `2023.12.11`  夸张！EMNLP投稿近5000篇，奖项出炉：北大、腾讯摘最佳长论文   **[[LINK](https://mp.weixin.qq.com/s/A6qI3YzGccoNeNBNhpQtcQ)]**
-- `2023.12.11`  EMNLP 2023 Best Paper公布啦！  **[[LINK](https://mp.weixin.qq.com/s/NQ2eLJ47Oni85O7m1oGWtA)]**
-- `2023.06.07`  多篇论文入选ICASSP 2023！火山语音有效解决多类实践问题   **[[LINK](https://mp.weixin.qq.com/s/lWumoCqKnkPrMBjpPuGM1w)]**
-- `2023.08.19`  快讯｜北邮GAMMA LAB的三篇工作被CIKM 2023 接收   **[[LINK](https://mp.weixin.qq.com/s/1pLXpTSkJIEAel1348LjJw)]**
-- `2023.06.09`  LeCun力挺，马毅教授五年集大成之作：完全数学可解释的白盒Transformer，性能不输ViT   **[[LINK](https://mp.weixin.qq.com/s/Prg_iwcbbC7QMup_i1ZHzw)]**
+
+  - `2025.11.11`  知识工场多篇论文被AAAI 2026录用   **[[LINK](https://mp.weixin.qq.com/s/pgVGV-5PKGVEnhPJzu3M9A)]**
+
+  - `2026.01.28`  中国科学院软件研究所中文信息处理实验室多项研究成果被期刊 TOIS 和国际会议 MLSys、ICLR 等录用   **[[LINK](https://mp.weixin.qq.com/s/f3pbrMdjWkN8maOMfgtdOA)]**
+
+  - `2026.01.31`  知识工场实验室 多 篇论文被 ICLR 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/Ez4q38up_4NdGgEcba4Gcw)]**
+  
+  - `2026.01.29`  人大高瓴人工智能学院师生论文被国际学术会议ICLR 2026录用   **[[LINK](https://mp.weixin.qq.com/s/KAj7-OvgqoEkNtyins26YQ)]**
+  
+  - `2024.12.04`  复旦大学数据智能与社会计算实验室3篇论文被COLING 2025录用   **[[LINK](https://mp.weixin.qq.com/s/UcrJFsp3Ri132a4pEa8fDg)]**
+  
+  - `2024.12.09`  哈工大SCIR 8篇长文被 COLING 2025录用   **[[LINK](https://mp.weixin.qq.com/s/MCApZ3uiHJknP4kS7NsnFw)]**
+ 
+  - `2024.12.30`  【新闻】东北大学数据挖掘实验室1篇论文被COLING 2025录用   **[[LINK](https://mp.weixin.qq.com/s/FPWVvh5pEMiINML-ZFEq0w)]**
+ 
+  - `2024.12.11`  学院6篇论文被自然语言处理领域国际会议COLING 2025录用   **[[LINK](https://ccs.imu.edu.cn/info/1053/2347.htm)]**
+  
+  - `2024.12.12`  快讯｜北邮GAMMA LAB的四篇工作被AAAI 2025录用   **[[LINK](https://mp.weixin.qq.com/s/CB5MfS3-M_Eq5Holh27kAg)]**
+  
+  - `2024.12.23`  哈工大SCIR 5篇论文被 AAAI 2025录用   **[[LINK](https://mp.weixin.qq.com/s/_aORLCuAgz0IsG8k9uTpVQ)]**
+  
+  - `2025.01.25`  北京大学多媒体信息处理研究室的2篇论文被ICLR 2025录用   **[[LINK](https://mp.weixin.qq.com/s/t6g7wd-bGBKBZ4idM5pqMg)]**
+  
+  - `2025.01.28`  人大高瓴人工智能学院师生论文被国际学术会议ICLR 2025录用   **[[LINK](https://mp.weixin.qq.com/s/NXpc39nMQX3IHgwVzCQ1ew)]**
+  
+  - `2025.01.26`  TJUDB实验室3篇论文被国际顶级会议WWW 2025录用   **[[LINK](https://mp.weixin.qq.com/s/SjjHaOpaGQMBKEsqhvDxJw)]**
+  
+  - `2025.01.26`  人大高瓴人工智能学院师生论文被国际学术会议The Web Conference (WWW) 2025录用   **[[LINK](https://mp.weixin.qq.com/s/05_oenl3rGxA2jLmaBLtpQ)]**
+  
+  - `2025.01.27`  龙蛇飞舞、恭贺新春 | 知识引擎实验室多篇新文章被ICLR、WWW、NAACL、Nature子刊、ACM Survey 等录用   **[[LINK](https://mp.weixin.qq.com/s/a2bTELhqgkgsKht7uCtOKQ)]**
+  
+  - `2025.01.27`  知识工场实验室近期录用论文一览（一）   **[[LINK](https://mp.weixin.qq.com/s/_sJCC4ixKpDLyyH_Be-CMw)]**
+  
+  - `2025.01.27`  知识工场实验室近期录用论文一览（二）   **[[LINK](https://mp.weixin.qq.com/s/FOizFG3ANyMXW6YCa6Xb8g)]**
+  
+  - `2025.01.29`  吉林大学 | 计算机科学与技术学院十六篇论文入选人工智能领域顶级会议AAAI 2025   **[[LINK](https://mp.weixin.qq.com/s/hZtXU2ftk0tvx21LA_8o5g)]**
+  
+  - `2025.01.24`  COLING 2025奖项公布：CIPS计算语言学专业委员会专委获最佳长论文奖和杰出论文奖   **[[LINK](https://mp.weixin.qq.com/s/jPjhQY8qGkX-8RNlIVIseg)]**
+  
+  - `2025.01.23`  蚂蚁开源 2024 年论文总结   **[[LINK](https://mp.weixin.qq.com/s/gZRpxcUH4lMUf4mou0K5TA)]**
+  
+  - `2025.01.20`  一文梳理业界落地LLM4Rec的若干范式-数万字超长文(建议收藏)   **[[LINK](https://mp.weixin.qq.com/s/jqFQH6ZYhZRrzilLAo9BiA)]**
+  
+  - `2025.04.07`  THUIR师生论文获SIGIR 2025录用   **[[LINK](https://mp.weixin.qq.com/s?__biz=MzUyNzA1MzQ2NA==&mid=2247484758&idx=1&sn=f7348527d0c28cedc969bde531c13957&chksm=fb5138228ae15b2e6f9a969c3ab657f255a5fe899c2ac0b43d5938041c2a649bb374d7e47303&mpshare=1&scene=23&srcid=0408eF4RjkMZIcjcOPV9CeQb&sharer_shareinfo=b0bf90ad158cf8f5cc5c758d78e4c0f1&sharer_shareinfo_first=b0bf90ad158cf8f5cc5c758d78e4c0f1#rd)]**
+  
+  - `2025.05.16`  新闻 | 天津大学自然语言处理实验室7篇论文被ACL 2025接受！  **[[LINK](https://mp.weixin.qq.com/s/L7sHpAXcKW8T-YZBjUQGfg)]**
+  
+  - `2025.05.16` 中国科学院软件研究所中文实验室多篇论文被 ACL 2025 及 ICML 2025录用   **[[LINK](https://mp.weixin.qq.com/s?__biz=Mzg2NjE3NzkzNQ==&mid=2247485384&idx=1&sn=dd59eb32bb36a0a80aacd37cb3ee5a20&chksm=cf8b6bc8c2b196b42809f751fa724ef931cf9d2cb81da51d8c7ae8f9086c7022da6c352399fe&mpshare=1&scene=23&srcid=0516C3Lr6RKfXStE1Hz2DLDQ&sharer_shareinfo=b4445aa0cdd2039c73574ef509fb5700&sharer_shareinfo_first=b4445aa0cdd2039c73574ef509fb5700#rd)]**
+  
+  - `2025.05.16`  新闻动态 | 实验室共14项新工作入选国际自然语言处理顶会ACL2025   **[[LINK](https://mp.weixin.qq.com/s/Bb6ZhnpkZbBzUxyHA2h9fw)]**
+  
+  - `2025.05.19`  哈工大SCIR 29篇长文被ACL 2025主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/dzosY6t9OSRlCkzVHCtHRw)]**
+  
+  - `2025.05.20`  人大高瓴人工智能学院师生论文被国际学术会议ACL 2025录用   **[[LINK](https://mp.weixin.qq.com/s/98ums3yz6QOe0TtAoxy52A)]**
+  
+  - `2025.05.23`  苏大NLP团队和合作单位40篇论文被ACL2025主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/x-6px3nrH2lk1vP77bgo7g)]**
+  
+  - `2025.05.20`  AML Lab 7 篇论文被国际学术会议ACL 2025录用   **[[LINK](https://mp.weixin.qq.com/s/g9foob4QzITPPqUfD273sw)]**
+  
+  - `2025.05.22`  实验室两篇论文被ACL 2025接收   **[[LINK](https://mp.weixin.qq.com/s/lPf3BTyFG4p1b-8SlC-s6A)]**
+  
+  - `2025.08.01`  知识工场多篇论文在ACL 2025发表   **[[LINK](https://mp.weixin.qq.com/s/B_CHJTuuoEMGmR79VsN1Yw)]**
+  
+  - `2025.05.24`  快讯｜北邮GAMMA LAB的五篇工作被KDD 2025录用   **[[LINK](https://mp.weixin.qq.com/s/W9gL7A3cyAKHm5_B05U6bA)]**
+  
+  - `2025.07.09`  交通数据挖掘与具身智能北京市重点实验室上半年CCF-A类学术论文成果速览   **[[LINK](https://mp.weixin.qq.com/s/yQ-TOQ0uP-SlFKM2Grhl_Q)]**
+  
+  - `2025.07.31`  ECML PKDD 2025 | 时空数据（Spatial-Temporal）论文总结   **[[LINK](https://mp.weixin.qq.com/s/SIwSmuSsQHVlmDUWxGbH-w)]**
+  
+  - `2025.08.14`  AML Lab 10 篇论文被国际学术会议CIKM 2025 录用   **[[LINK](https://mp.weixin.qq.com/s/-ai0ulxsdpAIAtyM1EVs5Q)]**
+  
+  - `2025.08.23`  新闻 | 实验室多篇新文章被EMNLP、ACM MM、Nature 子刊等录用   **[[LINK](https://mp.weixin.qq.com/s/cRlsPwdOurBDrot3b1cyGw)]**
+  
+  - `2025.08.23`  复旦大学数据智能与社会计算实验室3篇论文被EMNLP 2025 录用   **[[LINK](https://mp.weixin.qq.com/s/1pSfmIDEnPVZg3u3OwSWLQ)]**
+  
+  - `2025.08.21`  新闻 | 我组论文被自然语言处理领域顶会EMNLP 2025主会录用   **[[LINK](https://mp.weixin.qq.com/s/v7mnjf1lHx9ADigA4PSVkQ)]**
+  
+  - `2025.08.22`  吉林大学 | 人工智能学院11篇论文被EMNLP-2025接收   **[[LINK](https://sai.jlu.edu.cn/info/1034/5164.htm)]**
+  
+  - `2025.09.08`  研究团队六篇长文获EMNLP 2025国际会议录用   **[[LINK](https://mp.weixin.qq.com/s/V8cq4AocnanJ4D2rRV839g)]**
+  
+  - `2025.08.25`  哈工大SCIR 22篇长文被EMNLP 2025主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/8CoLnK2-gPmpqOxWitrLng)]**
+  
+  - `2025.09.25`  新闻 | 天津大学自然语言处理实验室2篇论文被EMNLP 2025 Industry Track接受！   **[[LINK](https://mp.weixin.qq.com/s/Wr53OJC73qM9eOkaz542Ig)]**
+  
+  - `2025.07.12`  实验室四篇论文被 NLPCC 2025 录用   **[[LINK](https://mp.weixin.qq.com/s/s-hy4Q4eUor4kYJq_2_abQ)]**
+  
+  - `2025.08.25`  NLPCC 2025 Outstanding Paper 丨 FinTeam：让金融智能体像投研团队一样协作   **[[LINK](https://mp.weixin.qq.com/s/vDyqRccp9svA3JIWZDw_sg)]**
+  
+  - `2025.09.19`  新闻｜我组 12 篇论文被 NeurIPS 2025 录用   **[[LINK](https://mp.weixin.qq.com/s/FsXvoo83UynkPD9kxli5Qg)]**
+  
+  - `2025.09.28`  知识工场实验室多篇论文被 ICML、MM、TOSEM、TSE、CIKM等会议或期刊录用   **[[LINK](https://mp.weixin.qq.com/s/fQITOXYBYOKyI9sYDnr5qw)]**
+  
+  - `2025.11.09`  EMNLP 2025奖项公布：CIPS计算语言学专业委员会专委获杰出论文奖和SAC Highlights奖   **[[LINK](https://mp.weixin.qq.com/s/RVmP_lmVSqIgVgvHoIabBw)]**
+  
+  - `2023.11.15`  ICLR 2024论文审稿结果出炉！7000+高产论文创新纪录，扩散模型占比最高   **[[LINK](https://mp.weixin.qq.com/s/K-uLAs30FfeZthtDifZSHA)]**
+  
+  - `2024.01.25`  快讯｜北邮GAMMA LAB的五篇工作被www 2024 接收   **[[LINK](https://mp.weixin.qq.com/s/17MdOkwEoMM20shsaq-5JA)]**
+  
+  - `2024.01.30`  人大高瓴人工智能学院师生论文被国际学术会议WWW 2024录用   **[[LINK](https://mp.weixin.qq.com/s/bflrSPiv-aICpPXZhq0_PA)]**
+  
+  - `2024.02.21`  天津大学自然语言处理实验室9篇论文被LREC-COLING 2024接受   **[[LINK](https://mp.weixin.qq.com/s/lPBaqBGBMhHZP-EjOirDHQ)]**
+  
+  - `2024.02.21`  复旦大学数据智能与社会计算实验室五篇论文被WWW、AAAI和COLING录用   **[[LINK](https://mp.weixin.qq.com/s/nse919SC_SXGG8hexo_UEg)]**
+  
+  - `2024.02.25`  哈工大SCIR 12篇长文被COLING 2024录用   **[[LINK](https://mp.weixin.qq.com/s/Xe7K6Fbx5e6e-focnuqbQA)]**
+  
+  - `2024.03.03`  软件工程顶会——ICSE '24 论文清单、摘要   **[[LINK](https://mp.weixin.qq.com/s/ahaPeR4MEKpxcOjtzgKVtg)]**
+  
+  - `2024.04.08`  中国科学院计算所网络数据重点实验室4篇论文获LREC-COLING 2024录用   **[[LINK](https://mp.weixin.qq.com/s/jv4D3ck2ccPqGqLhDRyRsA)]**
+  
+  - `2024.05.09`  快讯｜北邮GAMMA LAB的两篇工作被ICML 2024 录用   **[[LINK](https://mp.weixin.qq.com/s/DUOWKC_YDAdygjzdLxVMVA)]**
+  
+  - `2024.05.20`  快讯｜北邮GAMMA LAB的两篇工作被KDD 2024 录用   **[[LINK](https://mp.weixin.qq.com/s/bBuQsROttWyqMZA4bk8Yig)]**
+  
+  - `2024.05.07`  新闻 | 我组八篇论文被 ICML 2024 录用   **[[LINK](https://mp.weixin.qq.com/s/ThawLEkVGzun1gAIEd2yyw)]**
+  
+  - `2024.07.23`  北师大人工智能学院朱倩男老师论文被顶级会议录用   **[[LINK](https://mp.weixin.qq.com/s/AeyiINyeNqEy5pxZxPtlXw)]**
+  
+  - `2024.07.31`  知识工场多篇论文被 ACL 2024 与 MM 2024 录用   **[[LINK](https://mp.weixin.qq.com/s/_IKqiPzd3Iq0ltZ8fonUsA)]**
+  
+  - `2024.09.25`  哈工大SCIR 14篇长文被EMNLP 2024主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/vngsOKWvQqFW4nDEXkbdFA)]**
+  
+  - `2024.09.29`  哈工大SCIR 9篇论文被 NeurIPS 2024录用   **[[LINK](https://mp.weixin.qq.com/s/TIdJkNoCOC9V9-nhshtyMA)]**
+  
+  - `2024.10.04`  知识工场多篇论文被 EMNLP 2024 录用   **[[LINK](https://mp.weixin.qq.com/s/8oJyRx6t96KGnqXY1JgzCg)]**
+  
+  - `2024.10.10`  天津大学自然语言处理实验室4篇论文被NeurIPS 2024和EMNLP 2024接受！ **[[LINK](https://mp.weixin.qq.com/s/liZ3sVwrl2JV1b-4l7AOWA)]**
+  
+  - `2024.10.20`  THUIR师生论文获CIKM 2024录用   **[[LINK](https://mp.weixin.qq.com/s/Fq-qk7268ErAe4_UrFPn2w)]**
+  
+  - `2024.12.01`  天津大学自然语言处理实验室6篇论文被COLING 2025接受！   **[[LINK](https://mp.weixin.qq.com/s/2eV7BThvnRncaXgdYwsYxg)]**
+  
+  - `2024.12.03`  贾佳亚、徐立研究工作获 SIGGRAPH Asia 2024 时间检验奖 丨 AI 顶会直击   **[[LINK](https://mp.weixin.qq.com/s/L5AMEjKCfnS6xVgfrzBSXQ)]**
+  
+  - `2024.12.29`  东北大学iDC-NEU实验室2024年度论文总结   **[[LINK](https://mp.weixin.qq.com/s/1epw_EPRw8Pi_nlQ_47iMQ)]**
+  
+  - `2023.03.20`  Soundness？Excitement？官方解读ACL 2023论文评分机制   **[[LINK](https://mp.weixin.qq.com/s/RyottZj01o-H9OvuST8jJg)]**
+  
+  - `2023.05.22`  信工所14篇论文被顶级国际会议ACL 2023录用，一文速览！   **[[LINK](https://mp.weixin.qq.com/s/4gZRZvRZMkuLOh_GDlvROQ)]**
+  
+  - `2023.07.11`  ACL'23颁奖井喷！史无前例75篇论文上榜，华人面孔占据半壁江山   **[[LINK](https://mp.weixin.qq.com/s/4GfGE-J7dOSVAcQv41ncAw)]**
+  
+  - `2023.05.22`  自然语言处理顶会ACL 2023收录西湖大学工学院最新成果   **[[LINK](https://mp.weixin.qq.com/s/bMESRXRVl0fPIYwsW3KoGg)]**
+  
+  - `2023.07.26`  论文导读 | ACL-2023 文档级事件抽取 (1)   **[[LINK](https://mp.weixin.qq.com/s/XoLIi2HUKBYyW46y7mby1Q)]**
+  
+  - `2023.08.09`  KDD 2023奖项出炉：港中文、港科大等获最佳论文奖，GNN大牛Leskovec获创新奖   **[[LINK](https://mp.weixin.qq.com/s/mPkYZwdz1UJAC6DIAqk6Ug)]**
+  
+  - `2023.07.27`  论文导读 | ACL-2023 事件检测   **[[LINK](https://mp.weixin.qq.com/s/YF8R6SOjkRK9A0_7VLZp-A)]**
+  
+  - `2023.12.11`  夸张！EMNLP投稿近5000篇，奖项出炉：北大、腾讯摘最佳长论文   **[[LINK](https://mp.weixin.qq.com/s/A6qI3YzGccoNeNBNhpQtcQ)]**
+  
+  - `2023.12.11`  EMNLP 2023 Best Paper公布啦！  **[[LINK](https://mp.weixin.qq.com/s/NQ2eLJ47Oni85O7m1oGWtA)]**
+  
+  - `2023.06.07`  多篇论文入选ICASSP 2023！火山语音有效解决多类实践问题   **[[LINK](https://mp.weixin.qq.com/s/lWumoCqKnkPrMBjpPuGM1w)]**
+  
+  - `2023.08.19`  快讯｜北邮GAMMA LAB的三篇工作被CIKM 2023 接收   **[[LINK](https://mp.weixin.qq.com/s/1pLXpTSkJIEAel1348LjJw)]**
+  
+  - `2023.06.09`  LeCun力挺，马毅教授五年集大成之作：完全数学可解释的白盒Transformer，性能不输ViT   **[[LINK](https://mp.weixin.qq.com/s/Prg_iwcbbC7QMup_i1ZHzw)]**
+
