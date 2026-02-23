@@ -37,7 +37,7 @@
 - `2025.08.23`  新闻 | 实验室多篇新文章被EMNLP、ACM MM、Nature 子刊等录用   **[[LINK](https://mp.weixin.qq.com/s/cRlsPwdOurBDrot3b1cyGw)]**
 - `2025.08.23`  复旦大学数据智能与社会计算实验室3篇论文被EMNLP 2025 录用   **[[LINK](https://mp.weixin.qq.com/s/1pSfmIDEnPVZg3u3OwSWLQ)]**
 - `2025.08.21`  新闻 | 我组论文被自然语言处理领域顶会EMNLP 2025主会录用   **[[LINK](https://mp.weixin.qq.com/s/v7mnjf1lHx9ADigA4PSVkQ)]**
-- `2025.08.22`  吉林大学人工智能学院11篇论文被EMNLP-2025接收   **[[LINK](https://sai.jlu.edu.cn/info/1034/5164.htm)]**
+- `2025.08.22`  吉林大学 | 人工智能学院11篇论文被EMNLP-2025接收   **[[LINK](https://sai.jlu.edu.cn/info/1034/5164.htm)]**
 - `2025.09.08`  研究团队六篇长文获EMNLP 2025国际会议录用   **[[LINK](https://mp.weixin.qq.com/s/V8cq4AocnanJ4D2rRV839g)]**
 - `2025.08.25`  哈工大SCIR 22篇长文被EMNLP 2025主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/8CoLnK2-gPmpqOxWitrLng)]**
 - `2025.09.25`  新闻 | 天津大学自然语言处理实验室2篇论文被EMNLP 2025 Industry Track接受！   **[[LINK](https://mp.weixin.qq.com/s/Wr53OJC73qM9eOkaz542Ig)]**
@@ -64,7 +64,7 @@
 - `2024.10.04`  知识工场多篇论文被 EMNLP 2024 录用   **[[LINK](https://mp.weixin.qq.com/s/8oJyRx6t96KGnqXY1JgzCg)]**
 - `2024.10.10`  天津大学自然语言处理实验室4篇论文被NeurIPS 2024和EMNLP 2024接受！ **[[LINK](https://mp.weixin.qq.com/s/liZ3sVwrl2JV1b-4l7AOWA)]**
 - `2024.10.20`  THUIR师生论文获CIKM 2024录用   **[[LINK](https://mp.weixin.qq.com/s/Fq-qk7268ErAe4_UrFPn2w)]**
-- `2024.12.01`  天津大学自然语言处理实验室6篇论文被COLING 2025接受   **[[LINK](https://mp.weixin.qq.com/s/2eV7BThvnRncaXgdYwsYxg)]**
+- `2024.12.01`  天津大学自然语言处理实验室6篇论文被COLING 2025接受！   **[[LINK](https://mp.weixin.qq.com/s/2eV7BThvnRncaXgdYwsYxg)]**
 - `2024.12.03`  贾佳亚、徐立研究工作获 SIGGRAPH Asia 2024 时间检验奖 丨 AI 顶会直击   **[[LINK](https://mp.weixin.qq.com/s/L5AMEjKCfnS6xVgfrzBSXQ)]**
 - `2024.12.29`  东北大学iDC-NEU实验室2024年度论文总结   **[[LINK](https://mp.weixin.qq.com/s/1epw_EPRw8Pi_nlQ_47iMQ)]**
 - `2023.03.20`  Soundness？Excitement？官方解读ACL 2023论文评分机制   **[[LINK](https://mp.weixin.qq.com/s/RyottZj01o-H9OvuST8jJg)]**
