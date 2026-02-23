@@ -68,7 +68,7 @@
 - `2024.12.03`  贾佳亚、徐立研究工作获 SIGGRAPH Asia 2024 时间检验奖 丨 AI 顶会直击   **[[LINK](https://mp.weixin.qq.com/s/L5AMEjKCfnS6xVgfrzBSXQ)]**
 - `2024.12.29`  东北大学iDC-NEU实验室2024年度论文总结   **[[LINK](https://mp.weixin.qq.com/s/1epw_EPRw8Pi_nlQ_47iMQ)]**
 - `2023.03.20`  Soundness？Excitement？官方解读ACL 2023论文评分机制   **[[LINK](https://mp.weixin.qq.com/s/RyottZj01o-H9OvuST8jJg)]**
-- `2023.05.26`  信工所14篇论文被顶级国际会议ACL 2023录用   **[[LINK](https://mp.weixin.qq.com/s/4gZRZvRZMkuLOh_GDlvROQ)]**
+- `2023.05.22`  信工所14篇论文被顶级国际会议ACL 2023录用，一文速览！   **[[LINK](https://mp.weixin.qq.com/s/4gZRZvRZMkuLOh_GDlvROQ)]**
 - `2023.07.11`  ACL'23颁奖井喷！史无前例75篇论文上榜，华人面孔占据半壁江山   **[[LINK](https://mp.weixin.qq.com/s/4GfGE-J7dOSVAcQv41ncAw)]**
 - `2023.05.22`  自然语言处理顶会ACL 2023收录西湖大学工学院最新成果   **[[LINK](https://mp.weixin.qq.com/s/bMESRXRVl0fPIYwsW3KoGg)]**
 - `2023.07.26`  论文导读 | ACL-2023 文档级事件抽取 (1)   **[[LINK](https://mp.weixin.qq.com/s/XoLIi2HUKBYyW46y7mby1Q)]**
