@@ -3,6 +3,8 @@
 
 - **2026 Year**
 
+  - `2026.02.24`  12篇成果入选CVPR 2026！百度实现视觉与多模态技术多点突破   **[[LINK](https://mp.weixin.qq.com/s/aJjzBQZvOWgc5dJVgDGNSw)]**
+
   - `2025.11.11`  知识工场多篇论文被AAAI 2026录用   **[[LINK](https://mp.weixin.qq.com/s/pgVGV-5PKGVEnhPJzu3M9A)]**
 
   - `2026.01.28`  中国科学院软件研究所中文信息处理实验室多项研究成果被期刊 TOIS 和国际会议 MLSys、ICLR 等录用   **[[LINK](https://mp.weixin.qq.com/s/f3pbrMdjWkN8maOMfgtdOA)]**
