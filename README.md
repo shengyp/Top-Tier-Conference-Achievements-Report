@@ -1,13 +1,18 @@
 # Top-Tier-Conference-Achievements-Report
 
+
+- **2026 Year**
+
   - `2025.11.11`  知识工场多篇论文被AAAI 2026录用   **[[LINK](https://mp.weixin.qq.com/s/pgVGV-5PKGVEnhPJzu3M9A)]**
 
   - `2026.01.28`  中国科学院软件研究所中文信息处理实验室多项研究成果被期刊 TOIS 和国际会议 MLSys、ICLR 等录用   **[[LINK](https://mp.weixin.qq.com/s/f3pbrMdjWkN8maOMfgtdOA)]**
 
-  - `2026.01.31`  知识工场实验室 多 篇论文被 ICLR 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/Ez4q38up_4NdGgEcba4Gcw)]**
+  - `2026.01.31`  知识工场实验室多篇论文被 ICLR 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/Ez4q38up_4NdGgEcba4Gcw)]**
   
   - `2026.01.29`  人大高瓴人工智能学院师生论文被国际学术会议ICLR 2026录用   **[[LINK](https://mp.weixin.qq.com/s/KAj7-OvgqoEkNtyins26YQ)]**
   
+- **2025 Year**
+
   - `2024.12.04`  复旦大学数据智能与社会计算实验室3篇论文被COLING 2025录用   **[[LINK](https://mp.weixin.qq.com/s/UcrJFsp3Ri132a4pEa8fDg)]**
   
   - `2024.12.09`  哈工大SCIR 8篇长文被 COLING 2025录用   **[[LINK](https://mp.weixin.qq.com/s/MCApZ3uiHJknP4kS7NsnFw)]**
@@ -37,7 +42,7 @@
   - `2025.01.29`  吉林大学 | 计算机科学与技术学院十六篇论文入选人工智能领域顶级会议AAAI 2025   **[[LINK](https://mp.weixin.qq.com/s/hZtXU2ftk0tvx21LA_8o5g)]**
   
   - `2025.01.24`  COLING 2025奖项公布：CIPS计算语言学专业委员会专委获最佳长论文奖和杰出论文奖   **[[LINK](https://mp.weixin.qq.com/s/jPjhQY8qGkX-8RNlIVIseg)]**
-  
+
   - `2025.01.23`  蚂蚁开源 2024 年论文总结   **[[LINK](https://mp.weixin.qq.com/s/gZRpxcUH4lMUf4mou0K5TA)]**
   
   - `2025.01.20`  一文梳理业界落地LLM4Rec的若干范式-数万字超长文(建议收藏)   **[[LINK](https://mp.weixin.qq.com/s/jqFQH6ZYhZRrzilLAo9BiA)]**
@@ -93,6 +98,8 @@
   - `2025.09.28`  知识工场实验室多篇论文被 ICML、MM、TOSEM、TSE、CIKM等会议或期刊录用   **[[LINK](https://mp.weixin.qq.com/s/fQITOXYBYOKyI9sYDnr5qw)]**
   
   - `2025.11.09`  EMNLP 2025奖项公布：CIPS计算语言学专业委员会专委获杰出论文奖和SAC Highlights奖   **[[LINK](https://mp.weixin.qq.com/s/RVmP_lmVSqIgVgvHoIabBw)]**
+
+- **2024 Year**
   
   - `2023.11.15`  ICLR 2024论文审稿结果出炉！7000+高产论文创新纪录，扩散模型占比最高   **[[LINK](https://mp.weixin.qq.com/s/K-uLAs30FfeZthtDifZSHA)]**
   
@@ -135,6 +142,8 @@
   - `2024.12.03`  贾佳亚、徐立研究工作获 SIGGRAPH Asia 2024 时间检验奖 丨 AI 顶会直击   **[[LINK](https://mp.weixin.qq.com/s/L5AMEjKCfnS6xVgfrzBSXQ)]**
   
   - `2024.12.29`  东北大学iDC-NEU实验室2024年度论文总结   **[[LINK](https://mp.weixin.qq.com/s/1epw_EPRw8Pi_nlQ_47iMQ)]**
+  
+- **2023 Year**
   
   - `2023.03.20`  Soundness？Excitement？官方解读ACL 2023论文评分机制   **[[LINK](https://mp.weixin.qq.com/s/RyottZj01o-H9OvuST8jJg)]**
   
