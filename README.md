@@ -3,6 +3,8 @@
 
 - **2026 Year**
 
+  - `2026.03.01`  实验室20篇论文被CVPR、ICLR、TPAMI录用  **[[LINK](https://mp.weixin.qq.com/s/OxwX3E2_1oxDlxb9laPSgw)]**
+
   - `2026.02.24`  12篇成果入选CVPR 2026！百度实现视觉与多模态技术多点突破   **[[LINK](https://mp.weixin.qq.com/s/aJjzBQZvOWgc5dJVgDGNSw)]**
 
   - `2026.01.27`  学术成果 | 我组10篇论文被ICLR 2026录用   **[[LINK](https://mp.weixin.qq.com/s/9dE2LtN8ePSg1nRg6gL7Pw)]**
