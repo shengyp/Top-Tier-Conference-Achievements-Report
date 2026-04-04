@@ -3,6 +3,12 @@
 
 - **2026 Year**
 
+  - `2026.04.04`  AML Lab 7 篇论文被国际学术会议SIGIR 2026录用  **[[LINK](https://mp.weixin.qq.com/s/8A15p1pED-tSl6rZrvMzcg)]**
+
+  - `2026.04.02`  实验室博士生肖克来提关于多模态抽象视觉推理的研究被ICME 2026录用  **[[LINK](https://mp.weixin.qq.com/s/cA210uac3EbwhNU7SefwjQ)]**
+
+  - `2026.03.02`  电子科技大学|智能模型研究室在人工智能顶级会议WWW26发表2篇论文  **[[LINK](https://mp.weixin.qq.com/s/qtC2ud6uRB9fhod3Fw0HSA)]**
+
   - `2026.03.01`  实验室20篇论文被CVPR、ICLR、TPAMI录用  **[[LINK](https://mp.weixin.qq.com/s/OxwX3E2_1oxDlxb9laPSgw)]**
 
   - `2026.02.24`  12篇成果入选CVPR 2026！百度实现视觉与多模态技术多点突破   **[[LINK](https://mp.weixin.qq.com/s/aJjzBQZvOWgc5dJVgDGNSw)]**
