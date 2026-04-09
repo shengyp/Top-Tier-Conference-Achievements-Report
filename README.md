@@ -3,6 +3,14 @@
 
 - **2026 Year**
 
+  - `2026.04.09`  知识工场实验室18篇论文被 ACL 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/nIQvz1k5geErkmiM46jiDQ)]**
+  
+  - `2026.04.09`  清华人机交互与普适计算实验室12篇长文发表在CHI2026国际人机交互顶级会议   **[[LINK](https://mp.weixin.qq.com/s/VqQoEDIWbN9YY7dDZYRtfg)]**
+
+  - `2026.04.09`  新闻 | 天津大学自然语言处理实验室16篇论文被ACL 2026接受   **[[LINK](https://mp.weixin.qq.com/s/7TYkUXDnWMeMyYcuQkjTlQ)]**
+
+  - `2026.04.08`  快讯｜北邮GAMMA LAB工作被ACL 2026录用   **[[LINK](https://mp.weixin.qq.com/s/GjNR2IQEbotHg2dGACeoOQ)]**
+
   - `2026.04.04`  AML Lab 7 篇论文被国际学术会议SIGIR 2026录用  **[[LINK](https://mp.weixin.qq.com/s/8A15p1pED-tSl6rZrvMzcg)]**
 
   - `2026.04.02`  实验室博士生肖克来提关于多模态抽象视觉推理的研究被ICME 2026录用  **[[LINK](https://mp.weixin.qq.com/s/cA210uac3EbwhNU7SefwjQ)]**
