@@ -3,6 +3,12 @@
 
 - **2026 Year**
 
+  - `2026.04.10`  新闻 | 知识引擎实验室近期18项新工作入选国际自然语言处理顶会ACL2026   **[[LINK](https://mp.weixin.qq.com/s/nqDuqUsFvP61XIP-LgpEeQ)]**
+  
+  - `2026.04.10`  +++45！计算机学院45篇论文被CCF A 类自然语言处理顶会录用   **[[LINK](https://mp.weixin.qq.com/s/zX9Yz84rC_wLEQ9DfLuBew)]**
+
+  - `2026.04.09`  ACL 2026放榜，高德再创佳绩，中稿共计12篇   **[[LINK](https://mp.weixin.qq.com/s/77O8fuuqvuNwreyetuxgFg)]**
+
   - `2026.04.09`  知识工场实验室18篇论文被 ACL 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/nIQvz1k5geErkmiM46jiDQ)]**
 
   - `2026.04.09`  清华人机交互与普适计算实验室12篇长文发表在CHI2026国际人机交互顶级会议   **[[LINK](https://mp.weixin.qq.com/s/VqQoEDIWbN9YY7dDZYRtfg)]**
