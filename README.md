@@ -3,6 +3,18 @@
 
 - **2026 Year**
 
+  - `2026.04.30`  论文回顾 | 港科大（广州）数据科学与分析学域师生共有 29 篇论文入选国际顶会ICLR 2026   **[[LINK](https://mp.weixin.qq.com/s/V3I-AoXUX2o5GMRmuIW9OQ)]**
+
+  - `2026.04.27`  快讯｜北邮GAMMA LAB工作被ACL 2026 Demo录用   **[[LINK](https://mp.weixin.qq.com/s/uyc38ZuE7l9UKWhaUVJEcQ)]**
+
+  - `2026.04.22`  THUIR师生论文获ACL 2026录用   **[[LINK](https://mp.weixin.qq.com/s/khueZXd6t_T0qdfBT0p1mA)]**
+
+  - `2026.04.20`  博士生张孟关于多模态信息抽取的研究成果被自然语言处理顶级会议 ACL 2026 Findings 录用   **[[LINK](https://mp.weixin.qq.com/s/khueZXd6t_T0qdfBT0p1mA)]**
+
+  - `2026.04.14`  哈工大人工智能学院多篇长文被ACL2026 主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/lJQsHcQbZk-Gqhb1aojyEw)]**
+
+  - `2026.04.13`  哈工大 SCIR 多篇长文被 ACL 2026 主会/Findings 录用   **[[LINK](https://mp.weixin.qq.com/s/Su5v81svuuvkoqsetBayiQ)]**
+
   - `2026.04.10`  新闻 | 知识引擎实验室近期18项新工作入选国际自然语言处理顶会ACL2026   **[[LINK](https://mp.weixin.qq.com/s/nqDuqUsFvP61XIP-LgpEeQ)]**
   
   - `2026.04.10`  +++45！计算机学院45篇论文被CCF A 类自然语言处理顶会录用   **[[LINK](https://mp.weixin.qq.com/s/zX9Yz84rC_wLEQ9DfLuBew)]**
@@ -15,6 +27,8 @@
 
   - `2026.04.09`  新闻 | 天津大学自然语言处理实验室16篇论文被ACL 2026接受   **[[LINK](https://mp.weixin.qq.com/s/7TYkUXDnWMeMyYcuQkjTlQ)]**
 
+  - `2026.04.09`  ACL 2026放榜，高德再创佳绩，中稿共计12篇   **[[LINK](https://mp.weixin.qq.com/s/77O8fuuqvuNwreyetuxgFg)]**
+
   - `2026.04.08`  快讯｜北邮GAMMA LAB工作被ACL 2026录用   **[[LINK](https://mp.weixin.qq.com/s/GjNR2IQEbotHg2dGACeoOQ)]**
 
   - `2026.04.07`  实验室两篇论文被CCF A类会议 ACL 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/QtXfdOuwh40u9acq6yDDKw)]**  
@@ -22,6 +36,8 @@
   - `2026.04.04`  AML Lab 7 篇论文被国际学术会议SIGIR 2026录用  **[[LINK](https://mp.weixin.qq.com/s/8A15p1pED-tSl6rZrvMzcg)]**
 
   - `2026.04.02`  实验室博士生肖克来提关于多模态抽象视觉推理的研究被ICME 2026录用  **[[LINK](https://mp.weixin.qq.com/s/cA210uac3EbwhNU7SefwjQ)]**
+
+  - `2026.03.27`  电子科技大学|我院算法与逻辑团队在理论计算机科学顶级期刊I&C上连续发表三篇论文  **[[LINK](https://mp.weixin.qq.com/s/WEEVP4tt_Y9Jm56jhC63Lg)]**
 
   - `2026.03.02`  电子科技大学|智能模型研究室在人工智能顶级会议WWW26发表2篇论文  **[[LINK](https://mp.weixin.qq.com/s/qtC2ud6uRB9fhod3Fw0HSA)]**
 
