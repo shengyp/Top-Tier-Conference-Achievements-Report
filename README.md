@@ -3,6 +3,8 @@
 
 - **2026 Year**
 
+  - `2026.05.02`  新闻 | 天津大学自然语言处理实验室多篇论文被ICML 2026、IJCAI 2026等会议接受   **[[LINK](https://mp.weixin.qq.com/s/CSQhDdBV97iaaTl46zUVrg)]**
+
   - `2026.04.30`  论文回顾 | 港科大（广州）数据科学与分析学域师生共有 29 篇论文入选国际顶会ICLR 2026   **[[LINK](https://mp.weixin.qq.com/s/V3I-AoXUX2o5GMRmuIW9OQ)]**
 
   - `2026.04.27`  快讯｜北邮GAMMA LAB工作被ACL 2026 Demo录用   **[[LINK](https://mp.weixin.qq.com/s/uyc38ZuE7l9UKWhaUVJEcQ)]**
