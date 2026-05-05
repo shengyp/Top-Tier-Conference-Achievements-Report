@@ -3,6 +3,14 @@
 
 - **2026 Year**
 
+  - `2026.05.05`  THUIR师生论文获ICML 2026录用   **[[LINK](https://mp.weixin.qq.com/s/DZdv5JZ0Nc6_EkPu5WZ6YA)]**
+
+  - `2026.05.02`  MCAR-Lab两项研究成果被多媒体领域权威期刊ACM TOMM接收   **[[LINK](https://mp.weixin.qq.com/s/eZCrhlZsveYf-rPMvlvMNg)]**
+
+  - `2026.05.02`  AML Lab 4 篇论文被国际学术会议ICML 2026 & IJCAI 2026录用   **[[LINK](https://mp.weixin.qq.com/s/orC_RX6lDrBMmZrJkByv0w)]**
+
+  - `2026.05.02`  学院首次在CCF A类顶会发表论文   **[[LINK](https://mp.weixin.qq.com/s/ER4eweOCOWVOmjxW1q1XMQ)]**
+
   - `2026.05.02`  新闻 | 天津大学自然语言处理实验室多篇论文被ICML 2026、IJCAI 2026等会议接受   **[[LINK](https://mp.weixin.qq.com/s/CSQhDdBV97iaaTl46zUVrg)]**
 
   - `2026.04.30`  论文回顾 | 港科大（广州）数据科学与分析学域师生共有 29 篇论文入选国际顶会ICLR 2026   **[[LINK](https://mp.weixin.qq.com/s/V3I-AoXUX2o5GMRmuIW9OQ)]**
