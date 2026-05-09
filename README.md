@@ -3,6 +3,16 @@
 
 - **2026 Year**
 
+  - `2026.05.09`  华东师大决策智能实验室9篇论文被ICML 2026录用   **[[LINK](https://mp.weixin.qq.com/s/536z_fhxUJpDJ-lK777Wbw)]**
+
+  - `2026.05.08`  智能算法安全全国重点实验室9篇论文获ICML 2026录用   **[[LINK](https://mp.weixin.qq.com/s/XHdFfpsQ4wt961RCQSdRrQ)]**
+
+  - `2026.05.08`  快讯｜北邮GAMMA LAB两篇工作被ICML 2026录用   **[[LINK](https://mp.weixin.qq.com/s/mbiT63fm78srBvmIhg0XbA)]**
+
+  - `2026.05.06`  哈工大人工智能学院多篇长文被ICML2026会议录用   **[[LINK](https://mp.weixin.qq.com/s/IWXEXYF3QRH4X3SptpBcWg)]**
+
+  - `2026.05.06`  快讯｜北邮GAMMA LAB一篇工作被IJCAI 2026 Survey Track录用   **[[LINK](https://mp.weixin.qq.com/s/oXAIV2LvQ6sFjH1mP1U6-Q)]**
+
   - `2026.05.05`  THUIR师生论文获ICML 2026录用   **[[LINK](https://mp.weixin.qq.com/s/DZdv5JZ0Nc6_EkPu5WZ6YA)]**
 
   - `2026.05.02`  MCAR-Lab两项研究成果被多媒体领域权威期刊ACM TOMM接收   **[[LINK](https://mp.weixin.qq.com/s/eZCrhlZsveYf-rPMvlvMNg)]**
