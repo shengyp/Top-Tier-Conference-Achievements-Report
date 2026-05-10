@@ -5,6 +5,8 @@
 
   - `2026.05.09`  华东师大决策智能实验室9篇论文被ICML 2026录用   **[[LINK](https://mp.weixin.qq.com/s/536z_fhxUJpDJ-lK777Wbw)]**
 
+  - `2026.05.09`  南京大学自然语言处理研究组多篇论文被ACL2026、ICML2026录用   **[[LINK](https://mp.weixin.qq.com/s/6roRa_ejjGJKP9ASP7allw)]**
+
   - `2026.05.08`  智能算法安全全国重点实验室9篇论文获ICML 2026录用   **[[LINK](https://mp.weixin.qq.com/s/XHdFfpsQ4wt961RCQSdRrQ)]**
 
   - `2026.05.08`  快讯｜北邮GAMMA LAB两篇工作被ICML 2026录用   **[[LINK](https://mp.weixin.qq.com/s/mbiT63fm78srBvmIhg0XbA)]**
