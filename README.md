@@ -3,6 +3,8 @@
 
 - **2026 Year**
 
+  - `2026.05.12`  中国科大数据智能实验室 5 篇论文被 ICML 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/6Gu5vQIy4Hw5cVnlRvn-8Q)]**
+
   - `2026.05.09`  华东师大决策智能实验室9篇论文被ICML 2026录用   **[[LINK](https://mp.weixin.qq.com/s/536z_fhxUJpDJ-lK777Wbw)]**
 
   - `2026.05.09`  南京大学自然语言处理研究组多篇论文被ACL2026、ICML2026录用   **[[LINK](https://mp.weixin.qq.com/s/6roRa_ejjGJKP9ASP7allw)]**
@@ -234,4 +236,3 @@
   - `2023.08.19`  快讯｜北邮GAMMA LAB的三篇工作被CIKM 2023 接收   **[[LINK](https://mp.weixin.qq.com/s/1pLXpTSkJIEAel1348LjJw)]**
   
   - `2023.06.09`  LeCun力挺，马毅教授五年集大成之作：完全数学可解释的白盒Transformer，性能不输ViT   **[[LINK](https://mp.weixin.qq.com/s/Prg_iwcbbC7QMup_i1ZHzw)]**
-
