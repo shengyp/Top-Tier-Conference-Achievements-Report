@@ -3,6 +3,8 @@
 
 - **2026 Year**
 
+  - `2026.05.16`  数据与智能实验室师生文章获SIGKDD 2026录用   **[[LINK](https://mp.weixin.qq.com/s/FbNqK_hx27HUVX4DAxtwuw)]**
+
   - `2026.05.12`  中国科大数据智能实验室 5 篇论文被 ICML 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/6Gu5vQIy4Hw5cVnlRvn-8Q)]**
 
   - `2026.05.09`  华东师大决策智能实验室9篇论文被ICML 2026录用   **[[LINK](https://mp.weixin.qq.com/s/536z_fhxUJpDJ-lK777Wbw)]**
