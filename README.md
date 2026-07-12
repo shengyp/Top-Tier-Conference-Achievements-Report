@@ -3,6 +3,8 @@
 
 - **2026 Year**
 
+  - `2026.07.11`  实验室18篇论文被ACM MM 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/s8tnN2ynJFjmB-UsQXhknA)]**
+
   - `2026.05.18`  AML Lab 5 篇论文被国际学术会议KDD 2026录用   **[[LINK](https://mp.weixin.qq.com/s/O0aODYwOw18ZrjcIvA6xiw)]**
 
   - `2026.05.16`  数据与智能实验室师生文章获SIGKDD 2026录用   **[[LINK](https://mp.weixin.qq.com/s/FbNqK_hx27HUVX4DAxtwuw)]**
