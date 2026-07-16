@@ -3,7 +3,13 @@
 
 - **2026 Year**
 
+  - `2026.07.14`  中国科学院自动化研究所语言与知识计算课题组多项研究成果被国际会议ACL录用   **[[LINK](https://mp.weixin.qq.com/s/9eHuN2JnCJe44j6trcXXEg)]**
+
+  - `2026.07.13`  科研速递 | 我院师生论文被中科院一区 Top 期刊CAAI TRIT录用   **[[LINK](https://mp.weixin.qq.com/s/hmIzxoHbXU3uj1sgM2LLxg)]**
+
   - `2026.07.11`  实验室18篇论文被ACM MM 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/s8tnN2ynJFjmB-UsQXhknA)]**
+
+  - `2026.07.10`  DataSIG实验室郑浩宇同学的论文被ICML 2026（CCF A类）录用！   **[[LINK](https://mp.weixin.qq.com/s/L7usxbykkaRvYFJT8BsNwg)]**
 
   - `2026.05.18`  AML Lab 5 篇论文被国际学术会议KDD 2026录用   **[[LINK](https://mp.weixin.qq.com/s/O0aODYwOw18ZrjcIvA6xiw)]**
 
