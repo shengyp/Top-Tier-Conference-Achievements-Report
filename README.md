@@ -3,6 +3,7 @@
 
 - **2026 Year**
 
+  - `2026.08.12`  AML Lab 6 篇论文被国际学术会议CIKM 2026录用   **[[LINK](https://mp.weixin.qq.com/s/t0Hu8KX8pH8ATuf27eppGQ)]**
 
   - `2026.07.14`  中国科学院自动化研究所语言与知识计算课题组多项研究成果被国际会议ACL录用   **[[LINK](https://mp.weixin.qq.com/s/9eHuN2JnCJe44j6trcXXEg)]**
 
