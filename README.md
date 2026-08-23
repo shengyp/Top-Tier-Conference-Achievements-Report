@@ -3,6 +3,12 @@
 
 - **2026 Year**
 
+  - `2026.08.23`  新闻 | 天津大学自然语言处理实验室 14 篇论文被EMNLP 2026接受   **[[LINK](https://mp.weixin.qq.com/s/4wRO9JQgDJANqhqMBDHUXA)]**
+
+  - `2026.08.22`  AML Lab 6 篇论文被国际学术会议EMNLP 2026 & ICDM 2026录用   **[[LINK](https://mp.weixin.qq.com/s/sGpx9sAYO00RisnVlODvyQ)]**
+
+  - `2026.08.21`  新闻｜我组多篇论文被 EMNLP 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/R_2ZJaXtzBGRdLT252aGMQ)]**
+
   - `2026.08.12`  AML Lab 6 篇论文被国际学术会议CIKM 2026录用   **[[LINK](https://mp.weixin.qq.com/s/t0Hu8KX8pH8ATuf27eppGQ)]**
 
   - `2026.07.14`  中国科学院自动化研究所语言与知识计算课题组多项研究成果被国际会议ACL录用   **[[LINK](https://mp.weixin.qq.com/s/9eHuN2JnCJe44j6trcXXEg)]**
