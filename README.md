@@ -3,6 +3,14 @@
 
 - **2026 Year**
 
+  - `2026.08.25`  中国科学院自动化研究所语言与知识计算课题组多项研究成果被国际会议 EMNLP 录用
+   **[[LINK](https://mp.weixin.qq.com/s/ADEgiYYrR2-VNTQz46_VjA)]**
+
+  - `2026.08.25`  快讯｜北邮GAMMA LAB三篇工作被EMNLP 2026录用
+   **[[LINK](https://mp.weixin.qq.com/s/yHM2QzALbLz6APTsKOBMCA)]**
+
+  - `2026.08.25`  知识工场多篇论文被 EMNLP 2026 录用   **[[LINK](https://mp.weixin.qq.com/s/_NBeuPdQA2H4wg8gkLsFtQ)]**
+
   - `2026.08.23`  新闻 | 天津大学自然语言处理实验室 14 篇论文被EMNLP 2026接受   **[[LINK](https://mp.weixin.qq.com/s/4wRO9JQgDJANqhqMBDHUXA)]**
 
   - `2026.08.22`  AML Lab 6 篇论文被国际学术会议EMNLP 2026 & ICDM 2026录用   **[[LINK](https://mp.weixin.qq.com/s/sGpx9sAYO00RisnVlODvyQ)]**
