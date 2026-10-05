@@ -3,6 +3,15 @@
 
 - **2026 Year**
 
+  - `2026.09.30`  热烈祝贺KEG实验室大模型稀疏注意力原创研究成果被NeurIPS 2026录用！
+   **[[LINK](https://mp.weixin.qq.com/s/lyDlbz27a-N4eSU465iV7A)]**
+
+  - `2026.09.30`  清华大学数据科学与智能实验室多篇论文被 NeurIPS 2026 录用
+   **[[LINK](https://mp.weixin.qq.com/s/b1Uf6rqBx09VmR_XM4FMmw)]**
+
+  - `2026.09.28`  计算法学课题组3篇论文被EMNLP 2026录用
+   **[[LINK](https://mp.weixin.qq.com/s/Co1G3eMHkLdsiay0tT8HEQ)]**
+
   - `2026.08.25`  中国科学院自动化研究所语言与知识计算课题组多项研究成果被国际会议 EMNLP 录用
    **[[LINK](https://mp.weixin.qq.com/s/ADEgiYYrR2-VNTQz46_VjA)]**
 
