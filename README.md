@@ -12,6 +12,9 @@
   - `2026.09.28`  计算法学课题组3篇论文被EMNLP 2026录用
    **[[LINK](https://mp.weixin.qq.com/s/Co1G3eMHkLdsiay0tT8HEQ)]**
 
+  - `2026.09.24`  喜报：英语-计算机双学位本科生同学两篇学术论文获EMNLP 2026 BabyLM研讨会录用
+   **[[LINK](https://mp.weixin.qq.com/s/TpdpcG8x0OMz0krZXl7lOA)]**
+
   - `2026.08.25`  中国科学院自动化研究所语言与知识计算课题组多项研究成果被国际会议 EMNLP 录用
    **[[LINK](https://mp.weixin.qq.com/s/ADEgiYYrR2-VNTQz46_VjA)]**
 
