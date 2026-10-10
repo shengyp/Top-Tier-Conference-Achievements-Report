@@ -3,6 +3,9 @@
 
 - **2026 Year**
 
+  - `2026.10.09`  学术发表 | 智慧治理学院数智技术领域高水平论文成果动态
+   **[[LINK](https://mp.weixin.qq.com/s/i0iosScG8s9DrgDzCx3VMQ)]**
+
   - `2026.09.30`  热烈祝贺KEG实验室大模型稀疏注意力原创研究成果被NeurIPS 2026录用！
    **[[LINK](https://mp.weixin.qq.com/s/lyDlbz27a-N4eSU465iV7A)]**
 
