@@ -3,6 +3,9 @@
 
 - **2026 Year**
 
+  - `2026.10.18`  清华人机交互与普适计算实验室在IMWUT发表7篇长文并在UbiComp/ISWC国际会议获5项奖项
+   **[[LINK](https://mp.weixin.qq.com/s/qe1hpCtl_-hG2zMoByVjkQ)]**
+
   - `2026.10.09`  学术发表 | 智慧治理学院数智技术领域高水平论文成果动态
    **[[LINK](https://mp.weixin.qq.com/s/i0iosScG8s9DrgDzCx3VMQ)]**
 
