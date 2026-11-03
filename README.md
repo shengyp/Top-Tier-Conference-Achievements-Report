@@ -164,6 +164,8 @@
 
   - `2025.07.09`  交通数据挖掘与具身智能北京市重点实验室上半年CCF-A类学术论文成果速览   **[[LINK](https://mp.weixin.qq.com/s/yQ-TOQ0uP-SlFKM2Grhl_Q)]**
 
+  - `2025.07.02`  南京邮电大学丨计算机学院、软件学院、网络空间安全学院师生13篇论文被CCF-A计算机科学领域期刊录用   **[[LINK](https://mp.weixin.qq.com/s/InwDMve98SwayAhVocWOkg)]**
+
   - `2025.05.24`  快讯｜北邮GAMMA LAB的五篇工作被KDD 2025录用   **[[LINK](https://mp.weixin.qq.com/s/W9gL7A3cyAKHm5_B05U6bA)]**
   
   - `2025.05.23`  苏大NLP团队和合作单位40篇论文被ACL2025主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/x-6px3nrH2lk1vP77bgo7g)]**
