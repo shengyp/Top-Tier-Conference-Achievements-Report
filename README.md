@@ -2,6 +2,11 @@
 
 
 - **2026 Year**
+  - `2026.11.04`  喜报｜我实验室论文荣获 EMNLP 2026 SAC Highlight Award
+   **[[LINK](https://mp.weixin.qq.com/s/hxdto0JeBUr_i1NdRu3KDg)]**
+
+  - `2026.11.04`  课题组多篇论文被国际学术会议 WSDM 2027 录用
+   **[[LINK](https://mp.weixin.qq.com/s/jcg4wUVedd0Po8_JmH76wA)]**
 
   - `2026.10.18`  清华人机交互与普适计算实验室在IMWUT发表7篇长文并在UbiComp/ISWC国际会议获5项奖项
    **[[LINK](https://mp.weixin.qq.com/s/qe1hpCtl_-hG2zMoByVjkQ)]**
@@ -82,6 +87,8 @@
   - `2026.04.22`  THUIR师生论文获ACL 2026录用   **[[LINK](https://mp.weixin.qq.com/s/khueZXd6t_T0qdfBT0p1mA)]**
 
   - `2026.04.20`  博士生张孟关于多模态信息抽取的研究成果被自然语言处理顶级会议 ACL 2026 Findings 录用   **[[LINK](https://mp.weixin.qq.com/s/khueZXd6t_T0qdfBT0p1mA)]**
+
+  - `2026.04.14`  计算法学课题组论文被国际人工智能与法律顶级会议ICAIL 2026录用   **[[LINK](https://mp.weixin.qq.com/s/fsX1uIgKijF0Q1d_jNGDNg)]**
 
   - `2026.04.14`  哈工大人工智能学院多篇长文被ACL2026 主会/Findings录用   **[[LINK](https://mp.weixin.qq.com/s/lJQsHcQbZk-Gqhb1aojyEw)]**
 
