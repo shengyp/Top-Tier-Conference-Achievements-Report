@@ -2,6 +2,9 @@
 
 
 - **2026 Year**
+  - `2026.11.06`  研究所涂耿、陈诗炜同学分获CCL 2026亮点论文与亮点海报
+   **[[LINK](https://mp.weixin.qq.com/s/bloAncCUs7YszBUmnvwwLQ)]**
+
   - `2026.11.04`  喜报｜我实验室论文荣获 EMNLP 2026 SAC Highlight Award
    **[[LINK](https://mp.weixin.qq.com/s/hxdto0JeBUr_i1NdRu3KDg)]**
 
