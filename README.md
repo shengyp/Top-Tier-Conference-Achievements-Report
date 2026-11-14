@@ -4,6 +4,8 @@
 - **2027 Year**
 
 - **2026 Year**
+  - `2026.11.14`  数据与智能实验室师生文章获KDD 2027录用 **[[LINK](https://mp.weixin.qq.com/s/mGkyfDs9BNcmVYHB5DQwaA)]**
+
   - `2026.11.06`  研究所涂耿、陈诗炜同学分获CCL 2026亮点论文与亮点海报
    **[[LINK](https://mp.weixin.qq.com/s/bloAncCUs7YszBUmnvwwLQ)]**
 
@@ -30,6 +32,9 @@
 
   - `2026.09.24`  喜报：英语-计算机双学位本科生同学两篇学术论文获EMNLP 2026 BabyLM研讨会录用
    **[[LINK](https://mp.weixin.qq.com/s/TpdpcG8x0OMz0krZXl7lOA)]**
+
+  - `2026.09.14`  中国科大数据智能实验室 3 篇论文被 ICDE 2027 录用
+   **[[LINK](https://mp.weixin.qq.com/s/0GOFzG9hkQ2dnu2mRIAyng)]**
 
   - `2026.08.25`  中国科学院自动化研究所语言与知识计算课题组多项研究成果被国际会议 EMNLP 录用
    **[[LINK](https://mp.weixin.qq.com/s/ADEgiYYrR2-VNTQz46_VjA)]**
