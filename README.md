@@ -4,6 +4,12 @@
 - **2027 Year**
 
 - **2026 Year**
+  - `2026.11.15`  新闻｜我组艾清遥参与完成的论文获CIKM 2026时间检验奖 **[[LINK](https://mp.weixin.qq.com/s/T5j7q8lFtTcqcZTP6JYaig)]**
+
+  - `2026.11.15`  清华大学计算法学课题组参与Legal-Skills-Chinese文章被CIKM2026录用 **[[LINK](https://mp.weixin.qq.com/s/q5Z1R267qEjntiWwqIxjQQ)]**
+
+  - `2026.11.14`  热烈祝贺AML Lab荣获CIKM 2026 Best Student Full Research Paper！ **[[LINK](https://mp.weixin.qq.com/s/Z9YvJX7lWmfa9w68aICKsQ)]**
+
   - `2026.11.14`  数据与智能实验室师生文章获KDD 2027录用 **[[LINK](https://mp.weixin.qq.com/s/mGkyfDs9BNcmVYHB5DQwaA)]**
 
   - `2026.11.06`  研究所涂耿、陈诗炜同学分获CCL 2026亮点论文与亮点海报
