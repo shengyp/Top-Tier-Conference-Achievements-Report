@@ -4,6 +4,8 @@
 - **2027 Year**
 
 - **2026 Year**
+  - `2026.11.19`  中国科学院计算技术研究所领衔研究成果荣获CIKM 2026时间检验奖 **[[LINK](https://mp.weixin.qq.com/s/-lIjKx3Wow7quGoT9NyPhg)]**
+
   - `2026.11.19`  复旦大学数据智能与社会计算课题组 4 篇论文被 KDD 2027 录用 **[[LINK](https://mp.weixin.qq.com/s/xxUgegErJJSPaG_GytB_Mw)]**
 
   - `2026.11.17`  AML Lab 2 篇论文被国际学术会议KDD 2027首轮录用 **[[LINK](https://mp.weixin.qq.com/s/N0XAjUqlXOhdXqsFJjRlKQ)]**
