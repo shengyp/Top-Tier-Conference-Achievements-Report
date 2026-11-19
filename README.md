@@ -4,6 +4,14 @@
 - **2027 Year**
 
 - **2026 Year**
+  - `2026.11.19`  复旦大学数据智能与社会计算课题组 4 篇论文被 KDD 2027 录用 **[[LINK](https://mp.weixin.qq.com/s/xxUgegErJJSPaG_GytB_Mw)]**
+
+  - `2026.11.17`  AML Lab 2 篇论文被国际学术会议KDD 2027首轮录用 **[[LINK](https://mp.weixin.qq.com/s/N0XAjUqlXOhdXqsFJjRlKQ)]**
+
+  - `2026.11.16`  重磅喜讯！赵翔宇教授荣获IEEE ICDM 2026 Tao Li Award **[[LINK](https://mp.weixin.qq.com/s/dLZNU5rzKWhZ1wSrea8iBg)]**
+
+  - `2026.11.16`  团队2篇论文被SIGKDD2027录用 **[[LINK](https://mp.weixin.qq.com/s/uUVGEuRpqFWswNWTzXmKVQ)]**
+
   - `2026.11.15`  新闻｜我组艾清遥参与完成的论文获CIKM 2026时间检验奖 **[[LINK](https://mp.weixin.qq.com/s/T5j7q8lFtTcqcZTP6JYaig)]**
 
   - `2026.11.15`  清华大学计算法学课题组参与Legal-Skills-Chinese文章被CIKM2026录用 **[[LINK](https://mp.weixin.qq.com/s/q5Z1R267qEjntiWwqIxjQQ)]**
